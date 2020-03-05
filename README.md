@@ -1,14 +1,17 @@
 # CMPE257FinalProject-NELA-GT-2018
 
-### Datasets
+## Google drive project colab location
+https://drive.google.com/open?id=14GRlr7P3_-8srWMO2X7oIaWc8raxfpAJ
+
+## Datasets
 NELA-GT-2018 data set - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ULHLCB
 
-### News Coverage
+## News Coverage
 https://www.kaggle.com/aashita/nyt-comments
 https://www.kaggle.com/astoeckl/newsen
 https://www.kaggle.com/rmisra/news-category-dataset
 https://www.kaggle.com/dbs800/global-news-dataset
 
-### Sensational Feature
+## Sensational Feature
  https://www.thepersuasionrevolution.com/380-high-emotion-persuasive-words/
  
