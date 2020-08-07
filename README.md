@@ -1,7 +1,7 @@
 # CMPE257FinalProject-NELA-GT-2018
 
 ## Google drive project colab location
-https://drive.google.com/open?id=14GRlr7P3_-8srWMO2X7oIaWc8raxfpAJ
+https://drive.google.com/drive/u/3/folders/1UI2BgfNbLYIYp1qwSAJ5aSNCCrvgrdAr
 
 ## Datasets
 NELA-GT-2018 data set - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ULHLCB
